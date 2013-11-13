@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def more
   end
+
+  def team
+  end
 end
